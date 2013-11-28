@@ -1,0 +1,5 @@
+# Fill in your information and rename this file as 'keys.rb'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+OAUTH_TOKEN = ''
+OAUTH_TOKEN_SECRET = ''
